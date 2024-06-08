@@ -2,7 +2,6 @@
 // import React from "react";
 
 // function ComponentC(props) {
-
 //     return (
 //         <>
 //             <div className="box">
